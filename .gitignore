@@ -1,0 +1,6 @@
+app/es6/node_modules
+app/flux/node_modules
+app/react/node_modules
+app/react-router/node_modules
+app/redux/easy/node_modules
+app/redux/react-redux-demo/node_modules
