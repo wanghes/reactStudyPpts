@@ -1,0 +1,32 @@
+{
+  "name": "deskmark",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --color"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "markdown"
+  ],
+  "author": "wang_hes",
+  "license": "MIT",
+  "homepage": "",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
